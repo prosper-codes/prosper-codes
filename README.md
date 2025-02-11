@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Takunda P_J Nhau</h1>
-<h3 align="center">A passionate Software Engineer and a Flutter Developer</h3>
+<h3 align="center">A passionate Software Engineer || Flutter Developer</h3>
 
 <p align="center">
   <!-- Left side: Passionate Software Engineer and Flutter Developer text -->
