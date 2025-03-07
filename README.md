@@ -20,9 +20,12 @@
 
 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/takunda-p-j-nhau-196975234/)
 
-### 🎮 Memory Matching Game  
+### 🎮 Memory Matching Game🎮  
 A fun memory game built with **HTML, CSS, and JavaScript**.  
 👉 **[Play Here](https://prosper-codes.github.io/-memory-matching-game/)**  
+### 🎮 Guess my number 🎮
+A fun guessinh game built with **HTML, CSS, and JavaScript**.  
+👉 **[Play Here](https://prosper-codes.github.io/-guess_my_number/)**  
 
 
 <p align="center">
