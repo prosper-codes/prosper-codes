@@ -31,6 +31,7 @@ A fun guessinh game built with **HTML, CSS, and JavaScript**.
 <p align="center">
   <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="150"/>
   <img src="https://camo.githubusercontent.com/a615ccee1fede08a3322b260a6c9b09fa7c9d76bb410469650b284ebebcaef57/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" width="150"/>
-  <img src="https://miro.medium.com/v2/resize:fit:750/format:webp/0*LbIjtmRCoP96T5dt](https://miro.medium.com/v2/resize:fit:750/format:webp/0*LbIjtmRCoP96T5dt" width="150"/>
+  <img src="![image](https://github.com/user-attachments/assets/ee0d331c-96c3-413e-87c9-4302bf79e63c)
+" width="150"/>
 
 </p>
