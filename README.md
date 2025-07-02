@@ -1,5 +1,11 @@
 # 👋 Hi, I'm Takunda P_J Nhau
-## Software Engineer | Flutter Developer
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=1000&color=00CFFF&center=true&vCenter=true&width=750&height=60&lines=FULL+STACK+SOFTWARE+ENGINEER+🚀;Python+%7C%7C+Linux+Wizard+🐧;Flutter+Mobile+Craftsman+📱;Building+Digital+Magic+✨;Always+Learning%2C+Always+Growing+🌱;If+you+catch+some+bug+-+Get+some+tea!+🍵)
+
+</div>
+
+
 
 🔭 I’m working on personal projects and contributing to open-source.
 
