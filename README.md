@@ -1,4 +1,7 @@
-# 👋 Hi, I'm Takunda P_J Nhau
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20%F0%9F%91%8B,%20I'm%20Takunda%20P_J%20Nhau&reversal=false&section=header&textBg=false&fontAlign=50&animation=scaleIn&fontAlignY=42&fontSize=60" />
+</p>
+
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=1000&color=00CFFF&center=true&vCenter=true&width=750&height=60&lines=FULL+STACK+SOFTWARE+ENGINEER+🚀;Python+%7C%7C+Linux+Wizard+🐧;Flutter+Mobile+Craftsman+📱;Building+Digital+Magic+✨;Always+Learning%2C+Always+Growing+🌱;If+you+catch+some+bug+-+Get+some+tea!+🍵)
@@ -10,19 +13,16 @@
 🔭 I’m working on personal projects and contributing to open-source.
 
 🚀 **Languages**: 
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/></a>
-<a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="20" height="20"/></a>
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/></a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,python,java,cpp,js,ts,bash,spring,hibernate,mysql,postgresql,maven,git,html,css" />
+</p>
 
 🌱 **Currently learning**: Flutter, System Design, and new frameworks
 
-💻 **Tools**: 
-<a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="20" height="20"/></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/></a>
-<a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="20" height="20"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/></a>
+💻 **Tools other i have worked with**: 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,bootstrap,figma,postman,photoshop,aws,sass,linux,docker,react," />
+</p>
 
 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/takunda-p-j-nhau-196975234/)
 
