@@ -14,14 +14,14 @@
 
 🚀 **Languages**: 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,python,java,cpp,js,ts,bash,spring,hibernate,mysql,postgresql,maven,git,html,css" />
+  <img src="https://skillicons.dev/icons?i=flutter,python,java,rust,cpp,js,ts,bash,spring,hibernate,mysql,postgresql,maven,git,html,css" />
 </p>
 
-🌱 **Currently learning**: Flutter, System Design, and new frameworks
+🌱 **Currently learning**: Flutter,AI, CYBERSECURITY
 
 💻 **Tools other i have worked with**: 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,bootstrap,figma,postman,photoshop,aws,sass,linux,docker,react," />
+  <img src="https://skillicons.dev/icons?i=kotlin,swift,bootstrap,figma,postman,photoshop,aws,linux,docker,react," />
 </p>
 
 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/takunda-p-j-nhau-196975234/)
