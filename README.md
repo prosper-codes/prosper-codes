@@ -21,7 +21,7 @@
 
 💻 **Tools other i have worked with**: 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap,postman,aws,linux,docker,react,azure" />
+  <img src="https://skillicons.dev/icons?i=postman,aws,linux,docker,react,azure" />
 </p>
 
 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/takunda-p-j-nhau-196975234/)
