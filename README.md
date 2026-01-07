@@ -1,44 +1,39 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi%20%F0%9F%91%8B,%20I'm%20Takunda%20P_J%20Nhau&reversal=false&section=header&textBg=false&fontAlign=50&animation=scaleIn&fontAlignY=42&fontSize=45" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Hi%20I'm%20Takunda&fontSize=30&fontAlignY=40&fontColor=000000" />
 </p>
 
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=00CFFF&center=true&vCenter=true&width=750&height=45&lines=FULL+STACK+SOFTWARE+ENGINEER+🚀;Python+%7C%7C+Linux+Wizard+🐧;Flutter+Mobile+Craftsman+📱;Building+Digital+Magic+✨;Always+Learning%2C+Always+Growing+🌱;If+you+catch+some+bug+-+Get+some+tea!+🍵)
-
-</div>
-
-🔭 I’m working on personal projects and contributing to open-source.
-
-🚀 **Languages**: 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,python,java,rust,cpp,js,ts,flask,spring,hibernate,mysql,postgresql,html,css" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Software+Engineer+%26+Cybersecurity+Enthusiast;Full+Stack+Development;Secure+By+Design+Approach;Continuous+Learner+%26+Problem+Solver" />
 </p>
 
-🌱 **Currently learning**: AI and CYBERSECURITY
+## 👨‍💻 About Me
+Software Engineer with a strong interest in cybersecurity, building secure applications and exploring defensive security practices.
 
-💻 **Tools other i have worked with**: 
+## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postman,aws,linux,docker,react,azure" />
+  <img src="https://skillicons.dev/icons?i=flutter,python,java,js,ts,flask,spring,mysql,postgresql,linux,docker" />
 </p>
 
-📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/takunda-p-j-nhau-196975234/)
+## 🔒 Cybersecurity Focus
+- **Application Security**: Secure coding practices, vulnerability assessment
+- **Network Security**: Protocols, firewalls, intrusion detection
+- **Cloud Security**: AWS/Azure security best practices
+- **DevSecOps**: Integrating security into development pipelines
 
-### 🎮 Memory Matching Game🎮  
-A fun memory game built with **HTML, CSS, and JavaScript**.  
-👉 **[Play Here](https://prosper-codes.github.io/-memory-matching-game/)**  
+## 📚 Currently Learning
+- Advanced penetration testing techniques
+- Cloud security architecture
+- AI/ML in cybersecurity
+- Cryptography and secure protocols
 
-### 🎮 Guess my number 🎮
-A fun guessinh game built with **HTML, CSS, and JavaScript**.  
-👉 **[Play Here](https://prosper-codes.github.io/-guess_my_number/)**  
-
+## 💼 Development Tools
 <p align="center">
-  <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="120"/>
-  <img src="https://camo.githubusercontent.com/a615ccee1fede08a3322b260a6c9b09fa7c9d76bb410469650b284ebebcaef57/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" width="120"/>
-  <img src="https://xbsoftware.com/wp-content/uploads/2018/09/700.gif" width="200"/>
+  <img src="https://skillicons.dev/icons?i=postman,aws,linux,docker,react,azure,git,github,vscode" />
 </p>
 
-<!-- Footer -->
+## 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/takunda-p-j-nhau-196975234/)
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=50&color=gradient&section=footer"/>
 </p>
