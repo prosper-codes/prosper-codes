@@ -18,7 +18,7 @@ Aspiring Security Engineer with a background in software development. Passionate
 
 💼 Development Tools 💼
 <p align="center"> <img src="https://skillicons.dev/icons?i=postman,aws,linux,docker,react,azure,git,github,vscode" /> </p>
-📫[Connect with me on LinkedIn](https://www.linkedin.com/in/takunda-p-j-nhau-196975234/)📫
+📫[LinkedIn](https://www.linkedin.com/in/takunda-p-j-nhau-196975234/)  📫
 
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=50&color=gradient&section=footer"/> </p>
